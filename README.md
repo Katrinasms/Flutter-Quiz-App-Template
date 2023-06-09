@@ -26,4 +26,5 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/[YourGithubUsername]/flutter-quiz-app.git
+   git clone https://github.com/Katrinasms/Flutter-Quiz-App-Template.git
+   
