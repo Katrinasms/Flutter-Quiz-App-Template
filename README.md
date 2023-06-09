@@ -2,6 +2,8 @@
 
 This repository contains a customizable template for a Quiz App built with Flutter. It features animated buttons and a progress bar for an interactive and dynamic user experience.
 
+
+![App Demo](./assets/intro.gif)
 ## Features
 
 - **Animated Buttons:** The app uses Flutter's animation framework to provide smooth, visually appealing transitions and feedback on user interaction.
@@ -27,4 +29,4 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/Katrinasms/Flutter-Quiz-App-Template.git
-   
+
